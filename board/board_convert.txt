@@ -1,0 +1,9 @@
+The conversion of the project was successful.
+
+The new directory structure is as follows:
+
+C:/Users/001/Desktop/p1/OrCAD Capture
+    board.opj
+    board.dsn
+C:/Users/001/Desktop/p1/OrCAD Capture/board-PSpiceFiles
+C:/Users/001/Desktop/p1/OrCAD Capture/board-PSpiceFiles/SCHEMATIC1
